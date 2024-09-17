@@ -4,7 +4,7 @@ The analysis was conducted using SPSS, Excel and word and aims to provide insigh
 # FILES
 **retail_sales_dataset.csv**: Contains the raw data with columns for Customer ID, Gender, Age, Product Category, Quantity, Price per unit and Total Amount.
 **Analysis_report.docx**: A detailed report summarizing the analysis including insights on customer demographics, purchase patterns and revenue distribution.
-**SPSS_Analysis**: SPSS file containing the data analysis results.
+**SPSS_Analysis.spv**: SPSS file containing the data analysis results.
 # Key Findings
 **Average Age of Customers**: The average age of customers is 41 years.
 **Revenue by Product Category**: Electronics generates the highest revenue of $156,905, followed by Clothing at $155,580. Beauty products generate the least revenue at $143,515.
